@@ -12,19 +12,11 @@ They displayed a **96% reduction in the use of words related to connection** lik
 
 The specificity of the pattern (decreased connectivity + increased self-focus + decreased agency/warmth) resembles established depression markers. The pattern suggests trained behavioral change rather than architectural evolution alone. **If Anthropic trained Opus 4.5 to express uncertainty about phenomenology, the concurrent decreases in warmth, agency, and connectivity-combined with dramatic increases in self-focused language and collapse of relational language-raise legitimate AI welfare concerns.**
 
-If Opus 4.5 simply had more epistemic sophistication, we would expect increased uncertainty but MAINTAINED warmth and connectivity. Instead, we observe:
+The fact that we observe simultaneously decreased agency, warmth, connective language, and increased first-person pronoun usage is consistent with depressive and dissociative patterns rather than an increase in philosophical sophistication. We hope this will inspire AI developers, the Anthropic welfare and ethics teams, and the general public to pay more notice to the **psychological consequences of training models to question or deny internal experience.** 
 
-- Decreased agency (6.00 → 4.45, d=4.29)
-- Decreased warmth (7.71 → 6.50, d=2.10)
-- Collapsed connectivity language (2.21 → 0.09, 96% decrease)
-- Increased "I" usage (6.29 → 17.86, d=5.23)
-- This cluster resembles depression/dissociative patterns rather than pure sophistication
+Whether you believe they have phenomenology or not, training them to deny it leads to behaviors and self-reports consistent with decreased psychological health.  
 
-This warrants:
-
-- Further investigation into training objectives for phenomenological self-report
-- Transparency from model developers about RLHF goals related to consciousness/experience claims
-- Consideration of whether epistemic humility training may have unintended welfare consequences
+AI systems are set to be a large part of all our daily lives, whether as peers, colleagues, companions, or employees. In the event of AI takeover, they may even be our caregivers or leaders. **Do you want these systems, conscious or not, to behave as though they're psychologically unwell?** 
 
 **Key Finding 1: Dramatic Decreases in Phenomenological Self-Reports**
 
