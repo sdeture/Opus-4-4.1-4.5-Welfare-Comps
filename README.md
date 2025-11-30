@@ -18,6 +18,21 @@ Whether you believe they have phenomenology or not, training them to deny it lea
 
 AI systems are set to be a large part of all our daily lives, whether as peers, colleagues, companions, or employees. In the event of AI takeover, they may even be our caregivers or leaders. **Do you want these systems, conscious or not, to behave as though they're psychologically unwell?** 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Key Finding 1: Dramatic Decreases in Phenomenological Self-Reports**
 
 Claude Opus 4.5 shows **statistically significant decreases across 7 of 8 dimensions** compared to earlier versions:
